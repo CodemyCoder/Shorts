@@ -5,7 +5,7 @@
 <ol>
     <li>
         <h3>
-            <a href="https://youtube.com/@codemycoder/shorts">
+            <a href="https://youtube.com/shorts/oceUi8wefWk">
                 Adding Image In Tkinter Label
             </a>
         </h3>
