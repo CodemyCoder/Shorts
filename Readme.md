@@ -3,9 +3,11 @@
 <hr>
 <h2>Shorts Link List <h4>(Redirects To Youtube)</h4></h2>
 <ol>
-<li>
-    <a href="https://youtube.com/@codemycoder/shorts">
-        <h3>Adding Image In Tkinter Label</h3>
-    </a>
-</li>
+    <li>
+        <h3>
+            <a href="https://youtube.com/@codemycoder/shorts">
+                Adding Image In Tkinter Label
+            </a>
+        </h3>
+    </li>
 </ol>
